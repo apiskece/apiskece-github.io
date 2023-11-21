@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(rgb(141, 123, 207) 0%, rgb(255, 255, 255) 40%, rgb(44, 28, 146) 100%);
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    
+}
+
+.img {
+    width: 200px;
+}
+
+.profile h2 {
+    color: white;
+    transform: translateY(5px);
+}
+
+.profile p {
+    color: white;
+    transform: translateY(10px);
+}
+
+.biodata {
+    background: linear-gradient(rgb(255, 255, 255) 0%, rgb(245, 244, 244) 40%, rgba(237, 237, 241, 0) 100%);
+    padding-bottom: 250px;
+    padding-top: 150px;
+}
+
+.row {
+    padding: 0px 20px;
+}
+
+.achievement {
+    padding-top: 80px;
+}
+
+.footer {
+    background-color: rgb(255, 249, 249);
+    padding-bottom: 100px;
+}
+
+.kontak a {
+    color: black;
+    font-size: 50px;
+}
+
+.text p {
+    transform: translateY(50px);
+}
