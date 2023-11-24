@@ -18,7 +18,7 @@ body {
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
-    transform: translateY(10px);
+    transform: translateY(20px);
 }
 
 .display {
@@ -27,7 +27,7 @@ body {
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
-    transform: translateY(10px);
+    transform: translateY(20px);
 }
 
 .hide {
@@ -52,7 +52,7 @@ body {
     align-items: center;
     font-size: 50px;
     cursor: pointer;
-    transform: translateY(10px);
+    transform: translateY(20px);
 }
 
 .playerX {
@@ -69,7 +69,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 1em;
-    transform: translateY(10px);
+    transform: translateY(20px);
 }
 
 .controls button {
@@ -101,5 +101,5 @@ body {
 }
 
 .create {
-    transform: translateY(10px);
+    transform: translateY(20px);
 }
