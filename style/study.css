@@ -52,3 +52,15 @@ body {
 .text p {
     transform: translateY(50px);
 }
+
+.tengah p {
+    transform: translateY(10px);
+}
+
+.tombol button {
+    transform: translateY(10px);
+}
+
+.kanan {
+    transform: translateY(20px);
+}
