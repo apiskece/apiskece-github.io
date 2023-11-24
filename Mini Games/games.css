@@ -6,6 +6,7 @@
 
 body {
     background-color: #12181B;
+    padding: 50px;
 }
 
 .background {
@@ -18,7 +19,7 @@ body {
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
-    transform: translateY(30px);
+    transform: translateY(20px);
 }
 
 .display {
