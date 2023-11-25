@@ -58,10 +58,10 @@ body {
 }
 
 .tombol button {
-    transform: translateY(20px);
+    transform: translateY(30px);
     text-align: center;
 }
 
 .kanan {
-    transform: translateY(20px);
+    transform: translateY(40px);
 }
