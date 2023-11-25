@@ -57,7 +57,7 @@ body {
     transform: translateY(70px);
 }
 
-.tombol button {
+.tombol {
     transform: translateY(30px);
     text-align: center;
 }
