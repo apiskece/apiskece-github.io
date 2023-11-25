@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgb(141, 123, 207) 0%, rgb(255, 255, 255) 40%, rgb(44, 28, 146) 100%);
+    background: linear-gradient(#c689e2 0%, #dd4c4ed2 40%, #7420d300 100%);
 }
 
 .profile {
@@ -26,7 +26,7 @@ body {
 }
 
 .biodata {
-    background: linear-gradient(rgb(255, 255, 255) 0%, rgb(245, 244, 244) 40%, rgba(237, 237, 241, 0) 100%);
+    background: linear-gradient(rgb(255, 255, 255) 0%, rgb(238, 238, 238) 40%, rgba(237, 237, 241, 0) 100%);
     padding-bottom: 250px;
     padding-top: 150px;
 }
@@ -53,15 +53,19 @@ body {
     transform: translateY(50px);
 }
 
-.tengah {
-    transform: translateY(70px);
+.tengah h1 {
+    transform: translateY(10px);
 }
 
 .tombol {
-    transform: translateY(150px);
+    transform: translateY(30px);
     text-align: center;
 }
 
 .kanan {
     transform: translateY(40px);
+}
+
+.kiri {
+    text-align: center;
 }
