@@ -5,11 +5,10 @@
 }
 
 body {
-    padding: 80px;
+    background-color: #12181B;
 }
 
 .background {
-    background-color: #12181B;
     height: 100vh;
     padding-top: 1px;
 }
