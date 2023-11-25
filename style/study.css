@@ -27,7 +27,7 @@ body {
 .biodata {
     background: linear-gradient(rgb(255, 255, 255) 0%, rgb(238, 238, 238) 40%, rgba(237, 237, 241, 0) 100%);
     padding-bottom: 250px;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 .row {
