@@ -47,11 +47,11 @@ body {
 .tile {
     border: 1px solid white;
     min-width: 100px;
-    min-height: 60px;
+    min-height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 50px;
+    font-size: 20px;
     cursor: pointer;
     transform: translateY(20px);
 }
