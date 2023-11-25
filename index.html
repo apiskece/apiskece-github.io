@@ -38,6 +38,21 @@
               <li class="nav-item">
                 <a class="nav-link" href="Mini Games/games.html">Mini Games</a>
               </li>
+              <li class="nav-item">
+              <div id="clock" class="jam">
+
+                <script>
+                  setInterval(() => {
+                    let date = new Date()
+                    let clock = document.getElementById('clock')
+                    clock.innerHTML = 
+                      date.getHours()+":"+
+                      date.getMinutes()+":"+
+                      date.getSeconds()   
+                  }, 1000);
+                </script>
+                </div>
+               </li> 
             </ul>
           </div>
         </div>
