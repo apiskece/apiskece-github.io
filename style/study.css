@@ -53,11 +53,11 @@ body {
 }
 
 .tengah h1 {
-    transform: translateY(70px);
+    transform: translateY(100px);
 }
 
 .tombol {
-    transform: translateY(90px);
+    transform: translateY(120px);
     text-align: center;
 }
 
