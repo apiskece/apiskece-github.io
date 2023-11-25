@@ -104,11 +104,3 @@ body {
 .create {
     transform: translateY(20px);
 }
-
-.tanda {
-    font-size: 10px;
-}
-
-.bahan {
-    transform: translateY(30px);
-}
