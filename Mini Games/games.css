@@ -6,7 +6,6 @@
 
 body {
     background-color: #12181B;
-    padding: 50px;
 }
 
 .background {
@@ -19,7 +18,6 @@ body {
     text-align: center;
     font-size: 40px;
     margin-top: 10%;
-    transform: translateY(20px);
 }
 
 .display {
@@ -28,7 +26,6 @@ body {
     text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
-    transform: translateY(20px);
 }
 
 .hide {
@@ -47,13 +44,12 @@ body {
 .tile {
     border: 1px solid white;
     min-width: 100px;
-    min-height: 60px;
+    min-height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 50px;
     cursor: pointer;
-    transform: translateY(20px);
 }
 
 .playerX {
@@ -70,7 +66,6 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 1em;
-    transform: translateY(20px);
 }
 
 .controls button {
