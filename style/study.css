@@ -53,11 +53,11 @@ body {
 }
 
 .tengah h1 {
-    transform: translateY(100px);
+    transform: translateY(130px);
 }
 
 .tombol {
-    transform: translateY(120px);
+    transform: translateY(150px);
     text-align: center;
 }
 
@@ -68,3 +68,7 @@ body {
 .kiri {
     text-align: center;
 }
+
+.capai {
+    transform: translate(10px);
+}    
