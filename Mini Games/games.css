@@ -6,7 +6,7 @@
 
 body {
     background-color: #12181B;
-    padding: 50px;
+    padding: 70px;
 }
 
 .background {
@@ -47,7 +47,7 @@ body {
 .tile {
     border: 1px solid white;
     min-width: 100px;
-    min-height: 60px;
+    min-height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
