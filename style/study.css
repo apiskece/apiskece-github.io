@@ -76,3 +76,7 @@ body {
 .urutan {
     padding-top: 80px;
 }
+
+.jam {
+    transform: translateY(7px);
+}
