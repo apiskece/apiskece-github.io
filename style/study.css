@@ -54,11 +54,12 @@ body {
 }
 
 .tengah p {
-    transform: translateY(30px);
+    transform: translateY(70px);
 }
 
 .tombol button {
-    transform: translateY(10px);
+    transform: translateY(20px);
+    text-align: center;
 }
 
 .kanan {
