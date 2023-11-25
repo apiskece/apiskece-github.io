@@ -104,3 +104,7 @@ body {
 .create {
     transform: translateY(20px);
 }
+
+.jam {
+    transform: translateY(7px);
+}
